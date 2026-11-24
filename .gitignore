@@ -13,3 +13,8 @@ __pycache__
 **/*.fdb_latexmk
 
 .ipynb_checkpoints
+
+gabungannya_test_lr.csv
+gabungannya_train_lr.csv
+gabungannya_valid_lr.csv
+Weight dan Notebook.zip
